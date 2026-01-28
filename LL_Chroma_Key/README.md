@@ -1,4 +1,4 @@
-# LoopLab Studio: Key Node
+# LoopLab Studio: Chroma Key Node
 
 Technical documentation for `LL_Chroma_Key` - a macro that supports procedural animation and general best practices:  
 
