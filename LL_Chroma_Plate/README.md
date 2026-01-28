@@ -1,4 +1,4 @@
-# LoopLab Studio: Chroma Plate Node
+# Fusion Chroma Plate Node
 
 Technical documentation for `LL_Chroma_Plate` - a macro that supports procedural animation and general best practices:  
 
